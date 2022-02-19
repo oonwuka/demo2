@@ -6,4 +6,5 @@
 3. MasterBranch: some text on this line 1 20:58
 3. MasterBranch: some text on this line 2 20:58
 
+4. MasterBranch: Some text string.
 
